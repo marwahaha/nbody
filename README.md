@@ -61,7 +61,7 @@ options:
 			or a calender date, both in UTC.
 			For a calender date, the format is year-month-day-hour-minute-second or year/month/day/hour/minute/second.
 			Instead of '-' or '/', a colon could be used on the time part.
-			Months could be specified by a number from 1 to 12, by its name, or by its abreviation (thus, 7, Jul, and July are all good)
+			Months could be specified by a number from 1 to 12, by its name, or by its abbreviation (thus, 7, Jul, and July are all good)
 			If the time part of the date is omitted, the program assumes a time of 00:00:00
 			If the second isn't specified, the program assumes a time of h: m :0
 			For internal purposes, the program computes using the uniform Terestial Time.
